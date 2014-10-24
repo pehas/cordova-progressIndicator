@@ -6,7 +6,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import android.app.ProgressDialog;
 
-public class ProgressIndicator extends CordovaPlugin {
+public class ActivityIndicator extends CordovaPlugin {
 
 	private ProgressDialog activityIndicator = null;
 
